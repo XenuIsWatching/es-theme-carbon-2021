@@ -165,6 +165,7 @@ originally based on: "simple" by nils bonenberger
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<scrollSound>${themeScrollSound}</scrollSound>
+			<favoriteIconColor>${themeColor}</favoriteIconColor>
 		</textlist>
 	</view>
 
@@ -199,6 +200,7 @@ originally based on: "simple" by nils bonenberger
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<scrollSound>${themeScrollSound}</scrollSound>
+			<favoriteIconColor>${themeColor}</favoriteIconColor>
 		</textlist>
 
 		<!-- setup metadata fields begin -->
